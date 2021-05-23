@@ -79,10 +79,10 @@
 
 
     <p>
-      <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="true" aria-controls="collapseExample">
+      <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
         Link with href
       </a>
-      <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="true" aria-controls="collapseExample">
+      <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
         Button with data-target
       </button>
     </p>
@@ -118,10 +118,15 @@
           <div class="col-lg-6 menu-item filter-classics">
             <img src="assets/img/menu/old-fashioned.jpg" class="menu-img" alt="">
             <div class="menu-content">
-              <a href="#">Old Fashioned</a>
+              <a data-toggle="collapse" href="#old-fashioned" role="button" aria-expanded="false" aria-controls="old-fashioned">Old Fashioned</a>
             </div>
             <div class="menu-ingredients">
               Bourbon, Sugar, Bitters
+            </div>
+            <div class="collapse" id="old-fashioned">
+              <div class="card card-body">
+                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+              </div>
             </div>
           </div>
 
