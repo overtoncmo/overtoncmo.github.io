@@ -908,7 +908,7 @@ section {
 }
 
 .menu #menu-flters li:hover, .menu #menu-flters li.filter-active {
-  color: #cda45e !important;
+  color: #cda45e;
 }
 
 .menu #menu-flters li:last-child {
@@ -917,6 +917,7 @@ section {
 
 .menu .menu-item {
   margin-top: 50px;
+  background-color: #0c0b09 !important;
 }
 
 .menu .menu-img {
