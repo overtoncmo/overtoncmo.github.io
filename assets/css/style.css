@@ -921,6 +921,10 @@ section {
   background: #0c0b09 !important;
 }
 
+.menu {
+  background-color: #0c0b09 !important;
+}
+
 .menu .menu-img {
   width: 70px;
   border-radius: 50%;
