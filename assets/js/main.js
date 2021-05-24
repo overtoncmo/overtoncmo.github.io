@@ -56,7 +56,7 @@
   // Update the modal's content. We'll use jQuery here, but you could use a data binding library or other methods instead.
   var modal = $(this)
   modal.find('.modal-title').text(drink)
-  if drink in recipes {
+  if (drink in recipes) {
     modal.find('.modal-body').text(recipes[drink])
   } else {
     modal.find('.modal-body').text("Error: Recipe not found."))
