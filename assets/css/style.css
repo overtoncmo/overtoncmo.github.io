@@ -5,6 +5,11 @@
 * License: https://bootstrapmade.com/license/
 */
 
+
+
+#recipe-modal {
+  white-space: pre-line;
+}
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -113,7 +118,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .close {
-  color: #fff; 
+  color: #fff;
 }
 /*--------------------------------------------------------------
 # Disable aos animation delay on mobile devices
