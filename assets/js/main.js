@@ -17,6 +17,8 @@
   var button = $(event.relatedTarget) // Button that triggered the modal
   var drink = button[0].innerHTML
 
+  console.log(button)
+  console.log(drink)
   // If necessary, you could initiate an AJAX request here (and then do the updating in a callback).
   // Update the modal's content. We'll use jQuery here, but you could use a data binding library or other methods instead.
   var modal = $(this)
