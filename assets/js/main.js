@@ -9,8 +9,8 @@
 
   let recipes = {
     "Old Fashioned":"Recipe here....",
-    "Tom Collins":"2 ounces gin<br>1 ounce lemon juice<br>3/4 ounce simple syrup<br>2 ounces seltzer<br>Garnish: orange wheel, cherry<br>Pour seltzer into collins glass. Short shake remaining ingredients with ice. Pour over seltzer. Fill glass with cube ice.",
-    "Margarita":"2 ounces tequila<br>1 ounce lime juice<br>1/2 ounce Cointreau<br>1/2 ounce agave<br>Garnish: salt, lime wedge<br>Salt rim, if desired. Fill glass with ice. Shake all ingredients, and pour over ice. Garnish with lime, optional sprinkle of salt.",
+    "Tom Collins":"2 ounces gin\n1 ounce lemon juice\n3/4 ounce simple syrup\n2 ounces seltzer\nGarnish: orange wheel, cherry\nPour seltzer into collins glass. Short shake remaining ingredients with ice. Pour over seltzer. Fill glass with cube ice.",
+    "Margarita":"2 ounces tequila\n1 ounce lime juice\n1/2 ounce Cointreau\n1/2 ounce agave\nGarnish: salt, lime wedge\nSalt rim, if desired. Fill glass with ice. Shake all ingredients, and pour over ice. Garnish with lime, optional sprinkle of salt.",
   }
 
   $('#recipe-modal').on('show.bs.modal', function (event) {
