@@ -59,7 +59,7 @@
   if (drink in recipes) {
     modal.find('.modal-body').text(recipes[drink])
   } else {
-    modal.find('.modal-body').text("Error: Recipe not found.")
+    modal.find('.modal-body').text("This recipe has not been added yet.")
   }
 
 })
