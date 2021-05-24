@@ -15,7 +15,7 @@
   var button = $(event.relatedTarget) // Button that triggered the modal
   console.log("Button: ")
   console.log(button)
-  var drink = button.content
+  var drink = button[0].innerHTML
   console.log("Drink: ")
   console.log(drink)
 
