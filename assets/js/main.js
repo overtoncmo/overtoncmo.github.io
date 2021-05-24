@@ -8,9 +8,10 @@
   "use strict";
 
   let recipes = {
-    "Old Fashioned":"Recipe here....",
-    "Tom Collins":"2 ounces gin\n1 ounce lemon juice\n3/4 ounce simple syrup\n2 ounces seltzer\nGarnish: orange wheel, cherry\nPour seltzer into collins glass. Short shake remaining ingredients with ice. Pour over seltzer. Fill glass with cube ice.",
-    "Margarita":"2 ounces tequila\n1 ounce lime juice\n1/2 ounce Cointreau\n1/2 ounce agave\nGarnish: salt, lime wedge\nSalt rim, if desired. Fill glass with ice. Shake all ingredients, and pour over ice. Garnish with lime, optional sprinkle of salt.",
+    "Old Fashioned":"2 ounces whiskey\n1 sugar cube\n3 dashes Angostura bitters\nGarnish: orange peel\n\nMuddle sugar and bitters in the glass, adding 1 tsp water if needed. Add whiskey, and slowly lower large ice cube into the glass. Stir until combined, and garnish with orange peel.",
+    "Tom Collins":"2 ounces gin\n1 ounce lemon juice\n3/4 ounce simple syrup\n2 ounces seltzer\nGarnish: orange wheel, cherry\n\nPour seltzer into collins glass. Short shake remaining ingredients with ice. Pour over seltzer. Fill glass with cube ice, garnish, and serve with straw.",
+    "Margarita":"2 ounces tequila\n1 ounce lime juice\n1/2 ounce Cointreau\n1/2 ounce agave\nGarnish: salt, lime wedge\n\nSalt rim, if desired. Fill glass with ice. Shake all ingredients, and pour over ice. Garnish with lime, optional sprinkle of salt.",
+    "Mojito":"2 ounces rum\n8-10 mint leaves\n1 ounce lime juice\n1 sugar cube\n3/4 ounce simple syrup\n2 ounces cold seltzer (optional)\nCrushed ice\nGarnish: mint sprig\n\nMuddle mint with sugar and simple syrup in the shaker. Add remaining ingredients except seltzer and short shake with crushed ice. Dump into a collins glass, fill with crushed ice, and swizzle briefly. Add seltzer if desired. Garnish with a mint sprig, and serve with a straw."
   }
 
   $('#recipe-modal').on('show.bs.modal', function (event) {
