@@ -43,7 +43,8 @@
     "Gin Fizz":"1.5 ounces gin\n3/4 ounce simple syrup\n3/4 ounce lemon juice\n1 egg white\n2-4 ounces soda water\n\nComine all ingredients in a shaker and dry shake. Shake again with ice and strain into a collins glass (no ice). Top with soda water.",
     "Gold Rush":"2 ounces bourbon\n3/4 ounce lemon juice\n3/4 ounce honey syrup\n\nShake all ingredients with ice. Strain over ice cubes into a double Old-Fashioned glass. No garnish.",
     "Fireman's Sour":"2 ounces rum\n1 ounce lime juice\n1/2 ounce grenadine\n1 egg white\nGarnish: lime wedge\n\nDry shake all ingredients, then shake again with ice. Strain over ice cubes into an Old-Fashioned glass. Garnish with the lime wedge.",
-    "Planter's Punch":"2 ounces dark rum\n1 ounce lemon juice\n3/4 ounce simple syrup\n2-3 dashes Angostura bitters\nGarnish: pineapple wedge, mint sprig, and cherry\n\nCombine all ingredients in a highball glass, fill with crushed ice and stir. Garnish with the pineapple wedge, mint sprig, and cherry."
+    "Planter's Punch":"2 ounces dark rum\n1 ounce lemon juice\n3/4 ounce simple syrup\n2-3 dashes Angostura bitters\nGarnish: pineapple wedge, mint sprig, and cherry\n\nCombine all ingredients in a highball glass, fill with crushed ice and stir. Garnish with the pineapple wedge, mint sprig, and cherry.",
+    "Mai Tai":"1 ounce gold rum\n1 ounce light rum\n1 ounce lime juice\n1/2 ounce orgeat\n1/4 ounce simple syrup\n1/4 ounce cointreau\n1 dash Angostura bitters\nGarnish: mint sprig\n\nCombine all ingredients in a shaker and whip shake with ice. Dump into a double Old-Fashioned glass and fill with crushed ice. Garnish with the mint sprig."
 
 
   }
