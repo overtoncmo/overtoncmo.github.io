@@ -7,6 +7,8 @@
 (function() {
   "use strict";
 
+
+// add tequila sunrise, gin and tonic, whiskey smash, brown derby, grapefruit collins, presbyterian, and cinnamon girl to website
   let recipes = {
     "Old Fashioned":"2 ounces whiskey\n1 sugar cube\n3 dashes Angostura bitters\nGarnish: orange peel\n\nMuddle sugar and bitters in the glass, adding 1 tsp water if needed. Add whiskey, and slowly lower large ice cube into the glass. Stir until combined, and garnish with orange peel.",
     "Tom Collins":"2 ounces gin\n1 ounce lemon juice\n3/4 ounce simple syrup\n2 ounces seltzer\nGarnish: orange wheel, cherry\n\nPour seltzer into collins glass. Short shake remaining ingredients with ice. Pour over seltzer. Fill glass with cube ice, garnish, and serve with straw.",
