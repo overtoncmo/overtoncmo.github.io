@@ -58,7 +58,8 @@
     "Mimosa":"2 ounces sparkling wine\n2 ounces orange juice\n1/2 ounce Cointreau (optional)\n\nAdd sparkling wine, then orange juice, then Cointreau if using.",
     "Mint Julep":"2.5 ounces bourbon\n1 ounce simple syrup\n3 dashes Angostura bitters\n6-8 mint leaves\nGarnish: mint sprig\n\nAdd all ingredients to the cocktail shaker and shake with ice. Double strain over crushed ice into a double Old-Fashioned glass. Stir until the cup frosts, top with ice, and garnish with a mint sprig.",
     "Penicillin":"2 ounces scotch\n3/4 ounce lemon juicee\n1/2 ounce honey syrup\n1/2 ounce ginger syrup\nGarnish: candied ginger\n\nShake all ingredients with ice and strain into a double Old-Fashioned glass over ice. Garnish with candied ginger.",
-    "Boulivardier":"1.5 ounces bourbon\n3/4 ounce sweet vermouth\n3/4 ounce campari\nGarnish: orange twist and cherry\n\nChill a double Old-Fashioned glass with ice. Add all ingredients into mixing glass with a large ice cube and stir about 25 seconds. Strain into the chilled double Old-Fashioned glass with fresh ice, and garnish with orange."
+    "Boulivardier":"1.5 ounces bourbon\n3/4 ounce sweet vermouth\n3/4 ounce campari\nGarnish: orange twist and cherry\n\nChill a double Old-Fashioned glass with ice. Add all ingredients into mixing glass with a large ice cube and stir about 25 seconds. Strain into the chilled double Old-Fashioned glass with fresh ice, and garnish with orange.",
+    "Eastside":"2 ounces gin\n1 ounce lime juice\n3/4 ounce simple syrup\n6-8 mint leaves\nCucumber\nGarnish: cucumber slice and mint sprig\n\nGently mmuddle mint and cucumber in shaker. Add other ingredients, shake with ice, and strain over fresh ice into a double Old-Fashioned glass. Garnish with the cucumber slice and mint sprig."
 
 
   }
